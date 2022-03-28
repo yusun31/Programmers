@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a78d955-2c85-4ba7-9aa8-bf1701b8072f": {
+      "ProjectGuid": "7a78d955-2c85-4ba7-9aa8-bf1701b8072f",
+      "DisplayName": "3진법뒤집기",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
