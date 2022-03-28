@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1c1ddd5b-26e2-4906-89d9-4af7bb85d13c": {
+      "ProjectGuid": "1c1ddd5b-26e2-4906-89d9-4af7bb85d13c",
+      "DisplayName": "체육복",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ad5d21b0-c0e1-47af-bd99-c29777ab3881": {
+      "ProjectGuid": "ad5d21b0-c0e1-47af-bd99-c29777ab3881",
+      "DisplayName": "폰켓몬",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
