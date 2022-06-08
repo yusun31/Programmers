@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "717ff8fc-dbcb-4e4c-968e-fbf494cecd9a": {
+      "ProjectGuid": "717ff8fc-dbcb-4e4c-968e-fbf494cecd9a",
+      "DisplayName": "K번째 수",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
