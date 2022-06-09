@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "81a74782-9407-4afc-897b-c8d9a0bc20c6": {
+      "ProjectGuid": "81a74782-9407-4afc-897b-c8d9a0bc20c6",
+      "DisplayName": "음양 더하기",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
