@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f36c9176-944c-4be0-8206-0ccf098c7aae": {
+      "ProjectGuid": "f36c9176-944c-4be0-8206-0ccf098c7aae",
+      "DisplayName": "로또의 최고 순위와 최저 순위",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
