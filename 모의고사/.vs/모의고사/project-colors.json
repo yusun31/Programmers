@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8a1cc806-6d25-43cc-90b3-eaa22d9a1f96": {
+      "ProjectGuid": "8a1cc806-6d25-43cc-90b3-eaa22d9a1f96",
+      "DisplayName": "모의고사",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
