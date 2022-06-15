@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2c281aea-2442-4e95-ba39-e8b2706ee657": {
+      "ProjectGuid": "2c281aea-2442-4e95-ba39-e8b2706ee657",
+      "DisplayName": "숫자 문자열과 영단어",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
