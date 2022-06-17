@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "235d751a-c782-4221-bde9-5e7573bcaffb": {
+      "ProjectGuid": "235d751a-c782-4221-bde9-5e7573bcaffb",
+      "DisplayName": "두 개 뽑아서 더하기",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
