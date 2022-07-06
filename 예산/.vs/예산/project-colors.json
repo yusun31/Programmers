@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ced1ab83-2bd1-44d0-b6cc-73725e52e6a2": {
+      "ProjectGuid": "ced1ab83-2bd1-44d0-b6cc-73725e52e6a2",
+      "DisplayName": "예산",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
