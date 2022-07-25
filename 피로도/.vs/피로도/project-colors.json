@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff69052a-7add-425f-9e75-b4ee69d35778": {
+      "ProjectGuid": "ff69052a-7add-425f-9e75-b4ee69d35778",
+      "DisplayName": "피로도",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
