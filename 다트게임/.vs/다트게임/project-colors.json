@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a941b09-66c5-4d62-80c2-9ebf28e06ce7": {
+      "ProjectGuid": "2a941b09-66c5-4d62-80c2-9ebf28e06ce7",
+      "DisplayName": "다트게임",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
