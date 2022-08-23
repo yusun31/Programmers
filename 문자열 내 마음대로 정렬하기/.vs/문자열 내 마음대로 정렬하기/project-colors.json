@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5fcd3470-ceb6-4fc5-9d8e-ca45d1ba2255": {
+      "ProjectGuid": "5fcd3470-ceb6-4fc5-9d8e-ca45d1ba2255",
+      "DisplayName": "문자열 내 마음대로 정렬하기",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
