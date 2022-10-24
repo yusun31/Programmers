@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "37241bdc-17dd-43d8-85db-44fea43d21c0": {
+      "ProjectGuid": "37241bdc-17dd-43d8-85db-44fea43d21c0",
+      "DisplayName": "비밀지도",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
